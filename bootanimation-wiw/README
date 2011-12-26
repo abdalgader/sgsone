@@ -1,0 +1,25 @@
+
+  update.zip README
+  =================
+
+  Date:    2011/07/17
+
+  Content: custom bootanimation for Android 2.3.x
+           your ROM should support this
+
+  URL:     none
+
+  Author:  cid85 @ xda-developers.com
+           http://forum.xda-developers.com/member.php?u=3536148
+
+  License: I do not know exactly what License to choose, specially when I'm
+           using third party software (e.g. the bootanimation itself) so I'd
+           stick to that:
+
+           You may modify and redistribute as long as you mention all it's authors.
+           The package (mostly update.zip or similar) comes without any warranty,
+           the authors are not responsible for the work.
+
+           Especially when flashing phones, YOU KNOW what you're doing and you also
+           know, that there can happen strange things, which can cause your phone to
+           get broken.
