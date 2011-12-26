@@ -3,6 +3,7 @@
   =================
 
   Date:    2011/07/16
+  Updated: 2011/12/26
 
   Content: Windows Batch Script for signing an 'update.zip' file
 
@@ -25,6 +26,9 @@
            You may modify and redistribute as long as you mention all it's authors.
            The package (mostly update.zip or similar) comes without any warranty,
            the authors are not responsible for the work.
+		   
+		   Due to my usage of newer software (like Android 4.0) this might not work on them.
+		   I will re-release them, when I have tested them on ICS 4.0.
 
            Especially when flashing phones, YOU KNOW what you're doing and you also
            know, that there can happen strange things, which can cause your phone to
