@@ -1,0 +1,7 @@
+#!/system/bin/sh
+# cid85 @ xda-developers.com
+# change log format as suggested by pawitp (Teamhacksung ICS 4.0.3)
+# http://forum.xda-developers.com/showpost.php?p=20969484&postcount=7986
+# 2012-01-04
+
+echo 13 > /sys/module/earlysuspend/parameters/debug_mask
