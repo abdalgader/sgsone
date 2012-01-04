@@ -1,0 +1,7 @@
+#!/system/bin/sh
+# cid85 @ xda-developers.com
+# print out the value of '/sys/module/earlysuspend/parameters/debug_mask'
+# http://forum.xda-developers.com/showpost.php?p=20969484&postcount=7986
+# 2012-01-04
+
+echo "debug_mask is: `cat /sys/module/earlysuspend/parameters/debug_mask`"

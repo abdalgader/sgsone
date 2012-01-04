@@ -2,6 +2,7 @@
 # cid85 @ xda-developers.com
 # change log format as suggested by pawitp (Teamhacksung ICS 4.0.3)
 # http://forum.xda-developers.com/showpost.php?p=20969484&postcount=7986
+# use this script with Script Manager from Market; run at boot and as root!
 # 2012-01-04
 
 echo 13 > /sys/module/earlysuspend/parameters/debug_mask
